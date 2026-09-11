@@ -26,3 +26,8 @@
 -   **Named Volumes**:Crea un espacio de almacenamiento en algun lugar del Docker donde nosotros olo debemos colocar su nombre.
 -   **Bind mounts**:Es cuando puedo elejir una carpeta de mi mismo computador se conecte o este en una carpeta en especifica del contenedor.
 -   **Tmpts**:Los datos usados no se guardan sino ue solo estan temporamente en la memoria ram del contenedo, no son usadon solo si  se escesita algo rapido y temporal.
+
+## Capturas del Proyecto Desplegado:
+-   ![Docker Compose fundionando](Contenedores-Corriendo.png)
+-   ![Contenedores en Docker Desktop](docker-desktop.png)
+-   ![Vista previa del README](visualizar-readme.png)
