@@ -14,9 +14,6 @@
 ```
 ## Créditos
     - Cristian David Carranza Castillo
-  
-## Tipos de redes en Docker:
-
 
 ## Tipos de redes en Docker:
 -   **Bridge**:Es una red privada que permite a los contenedores comunicarse entre sí.
